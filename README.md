@@ -2,7 +2,7 @@
 
 pour gérer l'activation du test de fabrication implanté dans une partition différente (OTA1) de l'application elle même (OTA0)
 
-## Le partitionnement ==> paritions.csv
+## Le partitionnement ==> partitions.csv
 
 ## code pour l'application :
 
