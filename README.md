@@ -21,7 +21,7 @@ pour gérer l'activation du test de fabrication implanté dans une partition dif
 
    ## code pour le test :
    
-A PLACER AU TOUT DEBUT DU PROGRAMME
+_A PLACER AU TOUT DEBUT DU PROGRAMME_
    
  const esp_partition_t* partition = esp_partition_find_first(
         ESP_PARTITION_TYPE_APP, ESP_PARTITION_SUBTYPE_APP_OTA_0, NULL);        
